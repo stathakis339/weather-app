@@ -1,5 +1,5 @@
 // API Key από το OpenWeatherMap
-const apiKey = "YOUR_API_KEY";
+const apiKey = "ab01c145a87e900731606a19dd6e61a2";
 
 // Παίρνουμε τα elements από το HTML
 const cityInput = document.getElementById("cityInput");
